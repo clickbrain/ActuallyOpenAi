@@ -13,4 +13,4 @@ Telegram:
 * Startup, tech, and other pubs
 * Saved searches on the web
 * Combined tech feeds
-* [Twitter](https://twitter.com/home), [Threads](https://www.threads.net/), & [Reddit](https://www.reddit.com/)https://www.reddit.com/
+* [Twitter](https://twitter.com/home), [Threads](https://www.threads.net/), & [Reddit](https://www.reddit.com/)
